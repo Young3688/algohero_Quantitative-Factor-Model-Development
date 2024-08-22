@@ -1,1 +1,0 @@
-# algohero_Quantitative-Factor-Model-Development
